@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrailleTranslator", "BrailleTranslator\BrailleTranslator.csproj", "{08102201-ABF4-4D18-96E1-392BC8F91A94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08102201-ABF4-4D18-96E1-392BC8F91A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08102201-ABF4-4D18-96E1-392BC8F91A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08102201-ABF4-4D18-96E1-392BC8F91A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08102201-ABF4-4D18-96E1-392BC8F91A94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69B7E48F-669A-4BA7-A198-396432087997}
+	EndGlobalSection
+EndGlobal
